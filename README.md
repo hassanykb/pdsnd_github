@@ -14,4 +14,4 @@ gitignore
 Readme
 
 ### Credits
-Thanks to all my mentors and colleagues on the udacity platform for the assistance throughout this course.
+Thanks to all my mentors and colleagues on the udacity platform for the assistance throughout this course and to all the stackflow platforms i followed and asked questions.
