@@ -2,14 +2,13 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+exploring bike share data with python Udacity
 
 ### Description
-Describe what your project is about and what it does
+this is the refactoring branch of the project
 
 ### Files used
 Include the files used
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
