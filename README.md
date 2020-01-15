@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+changed on 15th January
 
 ### Project Title
 exploring bike share data with python Udacity
@@ -8,7 +8,7 @@ exploring bike share data with python Udacity
 this is the refactoring branch of the project
 
 ### Files used
-Include the files used
+the same files as the master
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
