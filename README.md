@@ -2,14 +2,14 @@
 15th January 2020
 
 ### Project Title
-Exploring Bike Share Data Udacity Programming for Data Science Course
+Exploring Bike Share Data for the Udacity Programming for Data Science Course using Python
 
 ### Description
 This is an SQL project to explore Bike Share Data from the USA
 
 ### Files used
 bikeshare.py
-US BikeSHare SQl Files
+US bikeshare SQl Files
 gitignore
 Readme
 
