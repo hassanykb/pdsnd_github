@@ -5,10 +5,13 @@
 Exploring Bike Share Data Udacity Programming for Data Science Course
 
 ### Description
-Describe what your project is about and what it does
+This is an SQL project to explore Bike Share Data from the USA
 
 ### Files used
-Include the files used
+bikeshare.py
+US BikeSHare SQl Files
+gitignore
+Readme
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
