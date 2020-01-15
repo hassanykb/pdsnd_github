@@ -14,4 +14,4 @@ gitignore
 Readme
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to all my mentors and colleagues on the udacity platform for the assistance throughout this course.
